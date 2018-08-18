@@ -1,3 +1,6 @@
+# 豆瓣电影TOP250抓取
+----
+
 **全部代码以及分析见GitHub：[https://github.com/dta0502/douban-top250](https://github.com/dta0502/douban-top250)**
 
 本文是Python爬取豆瓣的top250电影的分析和实现，具体是将电影的标题、电影描述、电影的评分、电影的评论数以及电影的一句影评抓取下来，然后输出csv文件。
