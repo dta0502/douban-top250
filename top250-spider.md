@@ -1,5 +1,4 @@
 # 豆瓣电影TOP250抓取
-----
 
 **全部代码以及分析见GitHub：[https://github.com/dta0502/douban-top250](https://github.com/dta0502/douban-top250)**
 
