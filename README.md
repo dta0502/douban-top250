@@ -13,7 +13,7 @@ Python实现豆瓣电影TOP250抓取，然后对爬取的数据进行分析。\
 ## 豆瓣电影TOP250数据分析
 本部分详细分析见：[豆瓣电影TOP250数据分析---top250-analyse.ipynb](https://github.com/dta0502/douban-top250/blob/master/top250-analyse.ipynb)
 
-下面是部分分析结果：\
+### 分析结果
 **电影制作国家统计**\
 ![电影制作国家统计](https://github.com/dta0502/douban-top250/blob/master/images/%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1.png)
 
